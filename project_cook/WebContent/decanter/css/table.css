@@ -1,0 +1,56 @@
+table.type06 {
+	border-collapse: collapse;
+	font-family:°íµñ;
+	text-align: left;
+	line-height: 1.5;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	margin: 20px 10px;
+}
+table.type06 th {
+	width: 80px;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+}
+table.type06 td {
+	width: 600px;
+	padding: 10px;
+	vertical-align: top;
+}
+table.type06 .even {
+	background: #efefef;
+}
+table.type06 .ev {
+	width : 500px;
+	max-width: 500px;
+}
+
+
+table.type09 {
+	border-collapse: collapse;
+	text-align: left;
+	line-height: 1.5;
+
+}
+table.type09 thead th {
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	color: #369;
+	border-bottom: 3px solid #ff4a4a;
+}
+table.type09 tbody th {
+
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+	background: #f3f6f7;
+}
+table.type09 td {
+
+	padding: 10px;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+}
